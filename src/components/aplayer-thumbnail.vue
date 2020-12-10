@@ -42,7 +42,8 @@
     computed: {
       currentPicStyleObj () {
         return {
-          background: this.theme
+          //background: this.theme
+          background: "url(" + this.pic + ") center/100%",
         }
       },
     },

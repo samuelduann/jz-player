@@ -286,6 +286,7 @@
           loopSelection: true,
           scrollParent: false,
           normalize: true,
+          backend: 'MediaElement'
         },
         waveLoading:false,
         isTogglePanel:false,
